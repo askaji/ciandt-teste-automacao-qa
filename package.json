@@ -1,0 +1,19 @@
+{
+  "name": "ciandt_testeAutomacaoQA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "cypress run --browser chrome --no-exit"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1",
+    "cypress-cucumber-preprocessor": "^4.2.0"
+  }
+}
