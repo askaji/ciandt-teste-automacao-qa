@@ -46,6 +46,3 @@ npx cypress run
 
 * Configurar o Cypress Dashboard;
 * Configurar o Github Workflow.
-
-Anotações feitas durante as aulas:
-https://www.evernote.com/shard/s615/sh/e466143a-27d7-5c3d-e586-8164f0c00517/
